@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/app_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#F2140401"
+            android:orientation="vertical">
+            <TextView
+                android:textSize="40sp"
+                android:id="@+id/titleBar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="3dp"
+                android:gravity="center"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#FFF" />
+        </LinearLayout>
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:id="@+id/composerImage"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:scaleType="centerInside" />
+        <TextView
+            android:id="@+id/composerName"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textColor="#fff"
+            android:textSize="34sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <TextView
+            android:textSize="28sp"
+            android:id="@+id/composerEra"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:textColor="#fff"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        <TextView
+            android:textSize="26sp"
+            android:id="@+id/composerNationality"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:textColor="#fff"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        <TextView
+            android:id="@+id/labelBiography"
+            android:layout_gravity="left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="2dp"
+            android:textColor="#fff"
+            android:text="Biography :"
+            android:textSize="30sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:background="@android:color/darker_gray" />
+        <TextView
+            android:id="@+id/biographyText"
+            android:layout_gravity="left"
+            android:layout_marginLeft="2dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:textSize="16sp"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        <TextView
+            android:id="@+id/labelFamousWork"
+            android:layout_gravity="left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="2dp"
+            android:textColor="#fff"
+            android:text="Famous Work :"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:background="@android:color/darker_gray" />
+        <TextView
+            android:id="@+id/famousWork"
+            android:layout_gravity="left"
+            android:layout_marginLeft="2dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:textSize="16sp"
+            android:textColor="#fff"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        <TextView
+            android:id="@+id/labelYouTubeFamousWork"
+            android:layout_gravity="left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:layout_marginLeft="2dp"
+            android:textColor="#fff"
+            android:text="Watch famous work on YouTube:"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:background="@android:color/darker_gray" />
+        <WebView
+            android:layout_marginTop="2dp"
+            android:background="@android:color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/youtubeWebView" />
+    </LinearLayout>
+</ScrollView>

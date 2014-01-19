@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LegendsOfClassicalMusic\Properties\AssemblyInfo.cs">
+    <Files>
+      <File FileName="LegendsOfClassicalMusic\Activities\ComposerDetailActivity.cs" Line="1" Column="1" />
+      <File FileName="LegendsOfClassicalMusic\Properties\AssemblyInfo.cs" Line="13" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="LegendsOfClassicalMusic\ComposerDetailActivity.cs" line="48" offsetX="651" offsetY="799" expression="stringbuilder" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.LegendsOfClassicalMusic MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="emulator-5554" MonoForAntroid.PreferredTheme="Theme.Holo" AndroidDeviceId-Release="emulator-5554" />
+</Properties>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B57B7652-36EC-465C-B346-BDBDCD72A3F9}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>LegendsOfClassicalMusic</RootNamespace>
+    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+    <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
+    <AndroidApplication>True</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
+    <AndroidResgenClass>Resource</AndroidResgenClass>
+    <AssemblyName>LegendsOfClassicalMusic</AssemblyName>
+    <TargetFrameworkVersion>v4.3</TargetFrameworkVersion>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>..\..\..\KeyStore\BattleCards\BattleCards</AssemblyOriginatorKeyFile>
+    <AndroidSupportedAbis>armeabi-v7a</AndroidSupportedAbis>
+    <MandroidI18n />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;__MOBILE__;__ANDROID__;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidLinkMode>None</AndroidLinkMode>
+    <ConsolePause>false</ConsolePause>
+    <AndroidStoreUncompressedFileExtensions>
+    </AndroidStoreUncompressedFileExtensions>
+    <JavaMaximumHeapSize>
+    </JavaMaximumHeapSize>
+    <JavaOptions>
+    </JavaOptions>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <DefineConstants>__MOBILE__;__ANDROID__;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+    <ConsolePause>false</ConsolePause>
+    <BundleAssemblies>true</BundleAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Mono.Android" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Resources\Resource.designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Entities\Composer.cs" />
+    <Compile Include="DataOperations\ComposerOperations.cs" />
+    <Compile Include="Entities\ComposerDetail.cs" />
+    <Compile Include="Utility\Utility.cs" />
+    <Compile Include="Utility\Globals.cs" />
+    <Compile Include="Activities\ComposerDetailActivity.cs" />
+    <Compile Include="Activities\MainActivity.cs" />
+    <Compile Include="Adapters\HomeScreenAdapter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+    <None Include="Properties\AndroidManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\Main.axml" />
+    <AndroidResource Include="Resources\values\Strings.xml" />
+    <AndroidResource Include="Resources\drawable\Icon.png" />
+    <AndroidResource Include="Resources\layout\home_menu_list_item.xml" />
+    <AndroidResource Include="Resources\drawable\Bach.jpg" />
+    <AndroidResource Include="Resources\drawable\Beethoven.jpg" />
+    <AndroidResource Include="Resources\drawable\Brahms.jpg" />
+    <AndroidResource Include="Resources\drawable\Chopin.jpeg" />
+    <AndroidResource Include="Resources\drawable\Debussy.jpg" />
+    <AndroidResource Include="Resources\drawable\Handel.jpg" />
+    <AndroidResource Include="Resources\drawable\Haydn.jpg" />
+    <AndroidResource Include="Resources\drawable\Mendelssohn.jpg" />
+    <AndroidResource Include="Resources\drawable\Mozart.jpg" />
+    <AndroidResource Include="Resources\drawable\Rachmaninoff.jpg" />
+    <AndroidResource Include="Resources\drawable\Rossini.jpg" />
+    <AndroidResource Include="Resources\drawable\Tchaikovsky.png" />
+    <AndroidResource Include="Resources\drawable\Verdi.jpg" />
+    <AndroidResource Include="Resources\drawable\Vivaldi.jpg" />
+    <AndroidResource Include="Resources\drawable\Wagner.jpg" />
+    <AndroidResource Include="Resources\values\color.xml" />
+    <AndroidResource Include="Resources\drawable\layout_selector.xml" />
+    <AndroidResource Include="Resources\layout\composer_detail.axml" />
+    <AndroidResource Include="Resources\drawable\debut_dark.png" />
+    <AndroidResource Include="Resources\drawable\app_bg.xml" />
+    <AndroidResource Include="Resources\animator\inanim.xml" />
+    <AndroidResource Include="Resources\animator\outanim.xml" />
+    <AndroidResource Include="Resources\animator\zoomexit1.xml" />
+    <AndroidResource Include="Resources\animator\zoomexit2.xml" />
+    <AndroidResource Include="Resources\layout-land\Main.axml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
+  <ItemGroup />
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Composers.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </AndroidAsset>
+    <AndroidAsset Include="Assets\fonts\font.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </AndroidAsset>
+    <AndroidAsset Include="Assets\fonts\sanslight.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </AndroidAsset>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Composers>
+
+<Composer id="1" DisplayName="Beethoven" FullName="Ludwig van Beethoven"  Era="1770 - 1827" ImageName="Beethoven.jpg">
+
+<Nationality IsoCode = "de" FullName="German"/>
+
+<Biography>
+Ludwig van Beethoven was a German composer and pianist. A crucial figure in the transition between the Classical and Romantic eras in Western art music,
+he remains one of the most famous and influential of all composers. His best known compositions include 9 symphonies, 5 concertos for piano, 32 piano sonatas,
+and 16 string quartets. He also composed other chamber music, choral works (including the celebrated Missa Solemnis), and songs.
+
+In his symphonies and his string quartets, his piano sonatas and his operas, Beethoven expanded on the 'inevitability' of the music of those before him, including Mozart. 
+As Sadie puts it, Beethoven entered a period in the beginning of the 1800s where the composer aspired to create music that was 'heroic.'
+In other words, music that was both perverse and uplifting, climactic and lyrical. This new determination came out of a period of depression when Beethoven first realized he was going deaf. 
+</Biography>
+
+<FamousWork>
+Beethoven is best known for his nine symphonies, which have been called the cornerstones of Western civilization. The most famous two are the Fifth Symphony and the Ninth Symphony because of
+their grandeur. The bars of the Fift are supposed to represent Fate knocking at the door. The 'Ode to Joy ' section of the fifth was adapted from Schiller.
+
+The Fifth Symphony   
+The Ninth Symphony   
+
+</FamousWork>
+
+
+<YouTubeLinks>
+
+<Link Url="http://www.youtube.com/watch?v=W-fFHeTX70Q" Description="The Best of Beethoven"/>
+<Link Url="http://www.youtube.com/watch?v=aWmj1bMR4Mo" Description="Moonlight Sonata"/>
+<Link Url = "http://www.youtube.com/watch?v=Gzs-OGgkZTU" Description = "Beethoven's Complete 5th Symphony"/>
+
+</YouTubeLinks>
+
+</Composer>
+
+<Composer id="2" DisplayName="Mozart" FullName="Wolfgang Amadeus Mozart"  Era="1756 - 1791" ImageName="Mozart">
+
+ <Nationality IsoCode = "de" FullName="German"/>
+
+<Biography>
+Wolfgang Amadeus Mozart  baptised as Johannes Chrysostomus Wolfgangus Theophilus Mozart was a prolific and influential composer of the Classical era.
+
+Mozart showed prodigious ability from his earliest childhood. Already competent on keyboard and violin, he composed from the age of five and performed before European royalty. At 17, he was engaged as a court musician in Salzburg, but grew restless and travelled in search of a better position, always composing abundantly. While visiting Vienna in 1781, he was dismissed from his Salzburg position. He chose to stay in the capital, where he achieved fame but little financial security. During his final years in Vienna, he composed many of his best-known symphonies, concertos, and operas, and portions of the Requiem, which was largely unfinished at the time of his death. The circumstances of his early death have been much mythologized. 
+
+He composed over 600 works, many acknowledged as pinnacles of symphonic, concertante, chamber, operatic, and choral music. He is among the most enduringly popular of classical composers, and his influence on subsequent Western art music is profound; Beethoven composed his own early works in the shadow of Mozart, and Joseph Haydn wrote that "posterity will not see such a talent again in 100 years."
+</Biography>
+
+<FamousWork>
+Some of Mozart's famous works include The Marriage of Figaro, The Magic Flute and Don Giovanni. 
+Mozart is said to be the greatest composer of all time with over 600 works, some of which included 41 symphonies and 27 piano concertos.
+</FamousWork>
+
+
+<YouTubeLinks>
+
+<Link Url="http://www.youtube.com/watch?v=8OZCyp-LcGw" Description="The Marriage of Figaro"/>
+<Link Url="http://www.youtube.com/watch?v=Vwub-9dZLFU" Description="The Magic Flute"/>
+<Link Url = "http://www.youtube.com/watch?v=k5eC9Aa9T5c" Description = "Don Giovanni"/>
+
+</YouTubeLinks>
+
+
+ </Composer>
+
+<Composer id="3" DisplayName="Bach" FullName="Johann Sebastian Bach"  Era="1685 - 1750" ImageName="Bach.jpg">
+
+<Nationality IsoCode = "" FullName="German"/>
+  
+<Biography>
+Johann Sebastian Bach was a German composer, organist, harpsichordist, violist, and violinist of the Baroque period. He enriched established German styles through his skill in counterpoint, harmonic and motivic organisation, and the adaptation of rhythms, forms, and textures from abroad, particularly from Italy and France. Bach's compositions include the Brandenburg Concertos, the Mass in B minor, the The Well-Tempered Clavier, more than 200 cantatas, two Passions, and keyboard works. His music is revered for its intellectual depth, technical command, and artistic beauty.
+
+Bach's abilities as an organist were highly respected throughout Europe during his lifetime, although he was not widely recognised as a great composer until a revival of interest and performances of his music in the first half of the 19th century. He is now generally regarded as one of the main composers of the Baroque period, and as one of the greatest composers of all time.
+</Biography>
+  
+<FamousWork>
+Johann Sebastian Bach was the author of several hundred works. All of which have been the subject of study and debate for several years. 
+This being the case, it is hard to determine what his most famous work is. However, most people are familiar with his Toccata and Fugue in D Minor composed for organ is arguably the most heard, making it the most famous by opinion.
+</FamousWork>
+
+
+<YouTubeLinks>
+
+<Link Url="http://www.youtube.com/watch?v=6JQm5aSjX6g" Description="The Best of Bach"/>
+<Link Url="http://www.youtube.com/watch?v=ipzR9bhei_o" Description="Bach, Toccata and Fugue in D minor, organ"/>
+<Link Url = "http://www.youtube.com/watch?v=mykVvFf5GHI" Description = "Orchestersuite Nr. 2 - Ouverture"/>
+
+</YouTubeLinks>
+ 
+
+ 
+</Composer>
+
+<Composer id="4" DisplayName="Vivaldi" FullName="Antonio Vivaldi"  Era="1678 - 1741" ImageName="Vivaldi.jpg" >
+  
+<Nationality IsoCode = "" FullName="Italian"/>
+  
+<Biography>
+Antonio Lucio Vivaldi , nicknamed il Prete Rosso ("The Red Priest") because of his red hair, was an Italian Baroque composer, Catholic priest, and virtuoso violinist, born in Venice. Recognized as one of the greatest Baroque composers, his influence during his lifetime was widespread over Europe. Vivaldi is known mainly for composing instrumental concertos, especially for the violin, as well as sacred choral works and over forty operas. His best known work is a series of violin concertos known as The Four Seasons.
+
+Many of his compositions were written for the female music ensemble of the Ospedale della Pietà, a home for abandoned children where Vivaldi had been employed from 1703 to 1715 and from 1723 to 1740. Vivaldi also had some success with stagings of his operas in Venice, Mantua and Vienna. After meeting the Emperor Charles VI, Vivaldi moved to Vienna, hoping for preferment. However, the Emperor died soon after Vivaldi's arrival and Vivaldi himself died less than a year later.
+
+Though Vivaldi's music was well received during his lifetime, it later declined in popularity until its vigorous revival in the first half of the 20th century. Today, Vivaldi ranks among the most popular and widely recorded of Baroque composers, second only to Johann Sebastian Bach.
+</Biography>
+  
+<FamousWork>
+Antonio Vivaldi is best known for composing The Four Seasons. The Four Seasons is a set of violin concertos depicting the seasons as Vivaldi saw/heard them.
+I'm sure you've heard Spring, which is the most recognized piece.
+</FamousWork>
+
+
+<YouTubeLinks>
+
+<Link Url="http://www.youtube.com/watch?v=l-dYNttdgl0" Description="Spring"/>
+<Link Url="http://www.youtube.com/watch?v=GRxofEmo3HA" Description="Four Seasons"/>
+<Link Url = "http://www.youtube.com/watch?v=O6NRLYUThrY" Description = "The Best of Vivaldi"/>
+
+</YouTubeLinks>
+
+</Composer>
+  
+<Composer id="5" DisplayName="Handel" FullName="George Frideric Handel"  Era="1685 - 1759" ImageName="Handel.jpg" >
+
+ <Nationality IsoCode = "" FullName="German"/>
+  
+<Biography>
+George Frideric Handel was a German-born British Baroque composer famous for his operas, oratorios, anthems and organ concertos. Born in a family indifferent to music, Handel received critical training in Halle, Hamburg and Italy before settling in London (1712) as a naturalized British subject in 1727. By then he was strongly influenced by the great composers of the Italian Baroque and the middle-German polyphonic choral tradition.
+
+Within fifteen years, Handel had started three commercial opera companies to supply the English nobility with Italian opera. In 1737 he had a physical breakdown, changed direction creatively and addressed the middle class. As Alexander's Feast (1736) was well received, Handel made a transition to English choral works. After his success with Messiah (1742) he never performed an Italian opera again. Handel was only partly successful with his performances of English oratorio on mythical and biblical themes, but when he arranged a performance of Messiah to benefit London's Foundling Hospital (1750) the criticism ended. It has been said that the passion of Handel's oratorios is an ethical one, and that they are hallowed not by liturgical dignity but by moral ideals of humanity. Almost blind, and having lived in England for almost fifty years, he died in 1759, a respected and rich man. His funeral was given full state honours, and he was buried in Westminster Abbey.
+</Biography>
+  
+<FamousWork>
+"Wassermusik" ("water music") and "Feuerwerksmusik" ("Music for the royal fireworks"), along with his oratorio "Messiha". One of his most famous pieces, the passacaglia in g-minor 432, wasn't well known at all till the transcription by Halvorsen. It has been originally for harpsichord.
+</FamousWork>
+
+
+<YouTubeLinks>
+
+<Link Url="http://www.youtube.com/watch?v=Vws6l89sp-g" Description="Watermusic-Suite No 1"/>
+<Link Url="http://www.youtube.com/watch?v=3D2jQkBygtQ" Description="Music for the royal fireworks"/>
+<Link Url = "http://www.youtube.com/watch?v=gUcUmzXvxuQ" Description = "Messiah"/>
+
+</YouTubeLinks>
+
+ </Composer> 
+  
+<Composer id="6" DisplayName="Rossini" FullName="Gioachino Rossini"  Era="1792 - 1868" ImageName="Rossini.jpg">
+  
+  <Nationality IsoCode = "" FullName="Italian"/>
+  
+<Biography>
+Gioachino Antonio Rossini was an Italian composer who wrote 39 operas as well as sacred music, chamber music, songs, and some instrumental and piano pieces.
+
+His best-known operas include the Italian comedies Il barbiere di Siviglia (The Barber of Seville) and La Cenerentola and the French-language epics Moïse et Pharaon and Guillaume Tell. A tendency for inspired, song-like melodies is evident throughout his scores, which led to the nickname "The Italian Mozart".
+Until his retirement in 1829, Rossini had been the most popular opera composer in history.
+</Biography>
+  
+<FamousWork>
+Overture, Variazioni and Moderato.
+</FamousWork>
+
+
+<YouTubeLinks>
+
+<Link Url="http://www.youtube.com/watch?v=xoBE69wdSkQ" Description="Overture"/>
+<Link Url="http://www.youtube.com/watch?v=Mpk-nkzX_00" Description="Variazioni"/>
+<Link Url = "http://www.youtube.com/watch?v=jh-DuliZ-EI" Description = "Moderato"/>
+
+</YouTubeLinks>
+
+  
+  
+</Composer>
+
+<Composer id="7" DisplayName="Mendelssohn" FullName="Felix Mendelssohn Bartholdy"  Era="1809 - 1847" ImageName="Mendelssohn.jpg">
+<Nationality IsoCode = "" FullName="German"/>
+  
+<Biography>
+Jakob Ludwig Felix Mendelssohn Bartholdy was a German composer, pianist, organist and conductor of the early Romantic period.
+
+A grandson of the philosopher Moses Mendelssohn, Felix Mendelssohn was born into a prominent Jewish family, although initially he was raised without religion and was later baptised as a Reformed Christian. Mendelssohn was recognised early as a musical prodigy, but his parents were cautious and did not seek to capitalise on his talent.
+Early success in Germany, where he also revived interest in the music of Johann Sebastian Bach, was followed by travel throughout Europe. Mendelssohn was particularly well received in Britain as a composer, conductor and soloist, and his ten visits there – during which many of his major works were premiered – form an important part of his adult career. 
+
+His essentially conservative musical tastes, however, set him apart from many of his more adventurous musical contemporaries such as Franz Liszt, Richard Wagner and Hector Berlioz. The Leipzig Conservatoire (now the University of Music and Theatre Leipzig), which he founded, became a bastion of this anti-radical outlook.
+</Biography>
+  
+<FamousWork>
+Wedding March (you'll have heard it at least once) "Italian" and "Scottish" SymphoniesViolin Concerto in E minorPiano Trio in D minor Op 49String Quartet Op44 no.1String Octet
+</FamousWork>
+
+
+<YouTubeLinks>
+
+<Link Url="http://www.youtube.com/watch?v=z0wmzoHd6yo" Description="A Midsummer Night's Dream - Wedding March"/>
+<Link Url="http://www.youtube.com/watch?v=sWiCHa9DFOY" Description="The Best of Mendelssohn"/>
+
+</YouTubeLinks>
+
+</Composer>
+
+<Composer id="8" DisplayName="Chopin" FullName="Frédéric François Chopin"  Era="1810 - 1849" ImageName="Chopin.jpeg">
+<Nationality IsoCode = "" FullName="Polish"/>
+  
+<Biography>
+Frédéric François Chopin was a Romantic-era Polish composer. A child prodigy, Chopin grew up in Warsaw, completed his musical education there, and composed many of his works there before leaving Poland, aged 20, less than a month before the outbreak of the November 1830 Uprising.
+
+At the age of 21 he settled in Paris (obtaining French nationality in 1835). During the remaining 18 years of his life, he gave only some 30 public performances, preferring the more intimate atmosphere of the salon; he supported himself by selling his compositions and as a sought-after piano teacher, and gained renown as a leading virtuoso of his generation. He formed a friendship with Franz Liszt and was admired by many of his musical contemporaries, including Robert Schumann. After a failed engagement with a Polish girl, from 1837 to 1847 he maintained an often troubled relationship with the French writer George Sand. A brief and unhappy visit with Sand to Majorca in 1838–39 was one of his most productive periods of composition. In his last years, he was financially supported by his admirer Jane Stirling, who also arranged for him to visit Scotland in 1848. Through most of his life, Chopin suffered from poor health; he died in Paris in 1849, probably of tuberculosis.
+
+All of Chopin's compositions include the piano; most are for solo piano, although he also wrote two piano concertos, a few chamber pieces, and some songs to Polish lyrics. His keyboard style, which is highly individual, is often technically demanding; his own performances were noted for their nuance and sensitivity. Chopin invented the concept of instrumental ballade; his major piano works also include sonatas, mazurkas, waltzes, nocturnes, polonaises, études, impromptus, scherzos, and preludes, some published only after his death. Many contain elements of both Polish folk music and of the classical tradition of J.S. Bach, Mozart and Schubert, whom Chopin particularly admired. Chopin's innovations in style, musical form, and harmony, and his association of music with nationalism, were influential throughout and after the late Romantic period.
+
+</Biography>
+  
+<FamousWork>
+1. Nocturnes no. 2, 8, and 20 2. Preludes no. 4 and 15 3. etudes op. 10 no. 3 and 12 and op.25 no.11 4. funeral march from sonata no.2 5. Scherzo no.2 6. ballade no.1 7. Polonaises no. 3 and 6 8. Barcarolle Op. 60, B. 158 9. waltz no.1 10. Fantasie in F minor Op.49 11. Fantasie Impromptu
+ </FamousWork>
+
+
+<YouTubeLinks>
+
+<Link Url="http://www.youtube.com/watch?v=5ZUw78FXpG4" Description="Nocturne In E Flat Major, Op.9 No.2"/>
+<Link Url="http://www.youtube.com/watch?v=V60USaluxGA" Description="NOCTURNES complete"/>
+<Link Url = "http://www.youtube.com/watch?v=kadbj9xYE10" Description = "The Best of Chopin"/>
+
+</YouTubeLinks>
+
+  </Composer>
+
+<Composer id="9" DisplayName="Wagner" FullName="Richard Wagner"  Era="1813 - 1883" ImageName="Wagner.jpg">
+<Nationality IsoCode = "" FullName="German"/>
+  
+<Biography>
+Wilhelm Richard Wagner was a German composer, theatre director, polemicist, and conductor who is primarily known for his operas (or, as some of his later works were later known, "music dramas"). Unlike most opera composers, Wagner wrote both the libretto and the music for each of his stage works. Initially establishing his reputation as a composer of works in the romantic vein of Weber and Meyerbeer, Wagner revolutionised opera through his concept of the Gesamtkunstwerk ("total work of art"), by which he sought to synthesise the poetic, visual, musical and dramatic arts, with music subsidiary to drama, and which was announced in a series of essays between 1849 and 1852. Wagner realised these ideas most fully in the first half of the four-opera cycle Der Ring des Nibelungen (The Ring of the Nibelung).
+
+His compositions, particularly those of his later period, are notable for their complex textures, rich harmonies and orchestration, and the elaborate use of leitmotifs—musical phrases associated with individual characters, places, ideas or plot elements. His advances in musical language, such as extreme chromaticism and quickly shifting tonal centres, greatly influenced the development of classical music. His Tristan und Isolde is sometimes described as marking the start of modern music.
+</Biography>
+  
+<FamousWork>
+The Ring of the Nibelungs and Ride of the Valkyries
+</FamousWork>
+
+
+<YouTubeLinks>
+
+<Link Url="http://www.youtube.com/watch?v=-HujjNQPv2U" Description="The Ring of the Nibelungs"/>
+<Link Url="http://www.youtube.com/watch?v=V92OBNsQgxU" Description="Ride of the Valkyries"/>
+
+</YouTubeLinks>
+
+  </Composer>
+
+<Composer id="10" DisplayName="Verdi" FullName="Giuseppe Fortunino Francesco Verdi"  Era="1813 - 1901" ImageName="Verdi.jpg" >
+  
+  <Nationality IsoCode = "" FullName="Italian"/>
+  
+<Biography>
+Giuseppe Fortunino Francesco Verdi  was an Italian Romantic composer primarily known for his operas. Verdi and Richard Wagner are considered the two preeminent opera composers of the nineteenth century. Verdi dominated the Italian opera scene after the eras of Bellini, Donizetti and Rossini. His works are frequently performed in opera houses throughout the world and, transcending the boundaries of the genre, some of his themes have long since taken root in popular culture, as "La donna è mobile" from Rigoletto, "Libiamo ne' lieti calici" (The Drinking Song) from La traviata, "Va, pensiero" (The Chorus of the Hebrew Slaves) from Nabucco, the "Coro di zingari" (Anvil Chorus) from Il trovatore and the "Grand March" from Aida.
+
+Moved by the death of compatriot Alessandro Manzoni, Verdi wrote Messa da Requiem in 1874 in Manzoni's honour, a work now regarded as a masterpiece of the oratorio tradition and a testimony to his capacity outside the field of opera. Visionary and politically engaged, he remains – alongside Garibaldi and Cavour – an emblematic figure of the reunification process of the Italian peninsula (the Risorgimento).
+
+</Biography>
+  
+<FamousWork>
+Otello and Nabucco are some of his most famous works.
+</FamousWork>
+
+
+<YouTubeLinks>
+
+<Link Url="http://www.youtube.com/watch?v=To9rlm2EjK4" Description="Otello"/>
+<Link Url="http://www.youtube.com/watch?v=2F4G5H_TTvU" Description="Nabucco - Hebrew Slaves Chorus"/>
+
+</YouTubeLinks>
+
+  
+  
+</Composer>
+  
+<Composer id="11" DisplayName="Debussy" FullName="Achille-Claude Debussy"  Era="1862 - 1918" ImageName="Debussy.jpg" >
+  
+  <Nationality IsoCode = "" FullName="French"/>
+  
+<Biography>
+Achille-Claude Debussy was a French composer. Along with Maurice Ravel, he was one of the most prominent figures associated with Impressionist music, though he himself intensely disliked the term when applied to his compositions. In France, he was made Chevalier of the Legion of Honour in 1903. Debussy was among the most influential composers of the late 19th and early 20th centuries, and his use of non-traditional scales and chromaticism influenced many composers who followed.
+Debussy's music is noted for its sensory component and frequent eschewing of tonality. The French literary style of his period was known as Symbolism, and this movement directly inspired Debussy both as a composer and as an active cultural participant.
+</Biography>
+  
+<FamousWork>
+Claire de Lune-Prelude a l'apres-midi d'un faune-Deux Arabesques-Golliwog's Cakewalk
+</FamousWork>
+
+
+<YouTubeLinks>
+
+<Link Url="http://www.youtube.com/watch?v=LlvUepMa31o" Description="Clair de lune"/>
+<Link Url="http://www.youtube.com/watch?v=9_7loz-HWUM" Description="Prelude to the Afternoon of a Faun"/>
+
+</YouTubeLinks>
+
+  
+</Composer>
+  
+<Composer id="12" DisplayName="Brahms" FullName="Johannes Brahms"  Era="1833 - 1897" ImageName="Brahms.jpg">
+  
+  <Nationality IsoCode = "" FullName="German"/>
+  
+<Biography>
+Johannes Brahms was a German composer and pianist.
+
+Born in Hamburg into a Lutheran family, Brahms spent much of his professional life in Vienna, Austria, where he was a leader of the musical scene. In his lifetime, Brahms's popularity and influence were considerable; following a comment by the nineteenth-century conductor Hans von Bülow, he is sometimes grouped with Johann Sebastian Bach and Ludwig van Beethoven as one of the "Three Bs".
+Brahms composed for piano, chamber ensembles, symphony orchestra, and for voice and chorus. A virtuoso pianist, he premiered many of his own works; he worked with some of the leading performers of his time, including the pianist Clara Schumann and the violinist Joseph Joachim. Many of his works have become staples of the modern concert repertoire. Brahms, an uncompromising perfectionist, destroyed some of his works and left others unpublished.
+
+Brahms is often considered both a traditionalist and an innovator. His music is firmly rooted in the structures and compositional techniques of the Baroque and Classical masters. He was a master of counterpoint, the complex and highly disciplined art for which Johann Sebastian Bach is famous, and of development, a compositional ethos pioneered by Joseph Haydn, Wolfgang Amadeus Mozart, Ludwig van Beethoven, and other composers. Brahms aimed to honour the "purity" of these venerable "German" structures and advance them into a Romantic idiom, in the process creating bold new approaches to harmony and melody. While many contemporaries found his music too academic, his contribution and craftsmanship have been admired by subsequent figures as diverse as Arnold Schoenberg and Edward Elgar. The diligent, highly constructed nature of Brahms's works was a starting point and an inspiration for a generation of composers.
+</Biography>
+  
+<FamousWork>
+His famous works are: Piano Concert No. 1 in D Minor Piano Concert No. 2 in B-flat Major Symphony No. 1 in C Minor Symphony No. 3 in F Major (3rd Movement) A German Requiem Violin Concerto in D Major Hungarian Dances Variations on a Theme by Paganini His Lullaby
+</FamousWork>
+
+
+<YouTubeLinks>
+
+<Link Url="http://www.youtube.com/watch?v=zzmAFgIAL14" Description="Symphony No. 01"/>
+<Link Url="http://www.youtube.com/watch?v=3X9LvC9WkkQ" Description="Hungarian Dance No. 5"/>
+
+</YouTubeLinks>
+
+  
+</Composer>
+
+<Composer id="13" DisplayName="Haydn" FullName="Franz Joseph Haydn"  Era="1732 - 1809" ImageName="Haydn.jpg">
+<Nationality IsoCode = "" FullName="Austrian"/>
+  
+  
+<Biography>
+Franz Joseph Haydn known as Joseph Haydn, was an Austrian composer, one of the most prolific and prominent of the Classical period. He is often called the "Father of the Symphony" and "Father of the String Quartet" because of his important contributions to these forms. He was also instrumental in the development of the piano trio and in the evolution of sonata form.
+
+A lifelong resident of Austria, Haydn spent much of his career as a court musician for the wealthy Esterházy family on their remote estate. Isolated from other composers and trends in music until the later part of his long life, he was, as he put it, "forced to become original". At the time of his death, he was one of the most celebrated composers in Europe.
+Joseph Haydn was the brother of Michael Haydn, himself a highly regarded composer, and Johann Evangelist Haydn, a tenor. He was also a friend of Wolfgang Amadeus Mozart and a teacher of Ludwig van Beethoven.
+ </Biography>
+  
+<FamousWork>
+Surprise symphony and the seasons
+</FamousWork>
+
+
+<YouTubeLinks>
+
+<Link Url="http://www.youtube.com/watch?v=EmZF3kBZQ6E" Description="The Best of Haydn"/>
+<Link Url="http://www.youtube.com/watch?v=ZmDyLc6c7CA" Description="The Seasons"/>
+
+</YouTubeLinks>
+
+  </Composer>
+
+<Composer id="14" DisplayName="Tchaikovsky" FullName="Pyotr Ilyich Tchaikovsky"  Era="1840 - 1893" ImageName="Tchaikovsky.png">
+<Nationality IsoCode = "" FullName="Russian"/>
+  
+<Biography>
+Pyotr Ilyich Tchaikovsky was a Russian composer whose works included symphonies, concertos, operas, ballets, chamber music, and a choral setting of the Russian Orthodox Divine Liturgy. Some of these are among the most popular theatrical music in the classical repertoire. He was the first Russian composer whose music made a lasting impression internationally, which he bolstered with appearances as a guest conductor later in his career in Europe and the United States. One of these appearances was at the inaugural concert of Carnegie Hall in New York City in 1891. Tchaikovsky was honored in 1884 by Emperor Alexander III, and awarded a lifetime pension in the late 1880s.
+
+Although musically precocious, Tchaikovsky was educated for a career as a civil servant. There was scant opportunity for a musical career in Russia at that time, and no system of public music education. When an opportunity for such an education arose, he entered the nascent Saint Petersburg Conservatory, from which he graduated in 1865. The formal Western-oriented teaching he received there set him apart from composers of the contemporary nationalist movement embodied by the Russian composers of The Five, with whom his professional relationship was mixed. Tchaikovsky's training set him on a path to reconcile what he had learned with the native musical practices to which he had been exposed from childhood. From this reconciliation, he forged a personal but unmistakably Russian style—a task that did not prove easy. The principles that governed melody, harmony and other fundamentals of Russian music ran completely counter to those that governed Western European music; this seemed to defeat the potential for using Russian music in large-scale Western composition or from forming a composite style, and it caused personal antipathies that dented Tchaikovsky's self-confidence. Russian culture exhibited a split personality, with its native and adopted elements having drifted apart increasingly since the time of Peter the Great, and this resulted in uncertainty among the intelligentsia of the country's national identity.
+</Biography>
+  
+<FamousWork>
+Symphony no 6, swan lake, violin concerto in D major, piano concerto no 1, and his 1812 overture. all composed in the 1800's. The most recognizable works of his would probably be Dance Of The Sugarplum
+</FamousWork>
+
+
+<YouTubeLinks>
+
+<Link Url="http://www.youtube.com/watch?v=Rapf3g_XvCc" Description="Dance Of The Sugarplum Fairy"/>
+<Link Url="http://www.youtube.com/watch?v=N0cpKzDoOdA" Description="1812 overture"/>
+<Link Url = "http://www.youtube.com/watch?v=QxHkLdQy5f0" Description = "Waltz of the Flowers"/>
+
+</YouTubeLinks>
+
+</Composer>
+
+<Composer id="15" DisplayName="Rachmaninoff" FullName="Sergei Vasilievich Rachmaninoff"  Era="1873 - 1943" ImageName="Rachmaninoff.jpg" >
+<Nationality IsoCode = "" FullName="Russian"/>
+  
+<Biography>
+Sergei Vasilievich Rachmaninoff was a Russian composer, pianist, and conductor. Rachmaninoff is widely considered one of the finest pianists of his day and, as a composer, one of the last great representatives of Romanticism in Russian classical music.
+Early influences of Tchaikovsky, Rimsky-Korsakov, and other Russian composers gave way to a personal style notable for its song-like melodicism, expressiveness and his use of rich orchestral colors. The piano is featured prominently in Rachmaninoff's compositional output, and through his own skills as a performer he explored the expressive possibilities of the instrument.
+</Biography>
+  
+<FamousWork>
+Rachmaninov is probably most well known in terms of compositions for his 4 piano concertos, 3 symphonies (especially 2), Rhapsody on a Theme of Paganini, Preludes for Solo Piano (especially the G Minor, C Sharp Minor and B Flat Major ones) and his Symphonic Dances. He recorded all of his piano concertos and they all of the highest standard.
+</FamousWork>
+
+
+<YouTubeLinks>
+<Link Url="http://www.youtube.com/watch?v=x8l37utZxMQ" Description="Piano Concerto No. 2"/>
+<Link Url="http://www.youtube.com/watch?v=NsFbah-NbME" Description="The Best of Rachmaninov"/>
+</YouTubeLinks>
+
+  </Composer>
+
+</Composers>
